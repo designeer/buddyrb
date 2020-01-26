@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm Jongbeom Park. Some keywords express me :
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Interested in Tech and Biz in Robotics field
+- Robotics Engineer
+	- Currently @ Kyoto Robotcis
+	- 5 years @ Yasakawa Corporation
+	- Master degree @ Osaka Unviersity
+	- Bachelor degree @ Hiroshima University
+- A fahter of 3 children
+- Live in Irumashi, Saitama, Japan
