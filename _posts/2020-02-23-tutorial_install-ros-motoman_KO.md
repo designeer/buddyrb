@@ -27,9 +27,8 @@ If you want english post, then refer to [How to make a Docker image of ROS Kinec
 
 
 ### 1. ROS Kinetic 인스톨과 catkin workspace 만들기
-<!-- ## How to install motoman package
 
-### 1. Install ROS and create a catkin workspace -->
+<!--### 1. Install ROS and create a catkin workspace -->
 
 
 ROS 의 인스톨에 관해서는 [ROS Wiki](http://wiki.ros.org/kinetic/Installation/Ubuntu)를 참조하세요.  
@@ -54,6 +53,7 @@ source devel/setup.bash
 ```
 
 ### 2. motoman package 빌드하기
+
 <!-- ### 2. Build motoman package -->
 
 아래 설명은 기본 git hub 의 [motoman package](https://github.com/ros-industrial/motoman)의 내용을 바탕으로 하고 있습니다.
@@ -187,6 +187,7 @@ launch 폴더의 *load_gp180_120.launch* 는 위의 xacro 파일을 Rviz 에 로
 
 
 ### 4. 동작 테스트
+
 <!-- ### 4. Operation test  -->
 
 간단한 동작 테스트로써 *gp180_120_macro.xacro* 를 Rviz 에 로드해보겠습니다.
